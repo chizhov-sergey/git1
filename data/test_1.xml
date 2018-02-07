@@ -1,0 +1,7 @@
+<projects>
+    <project name="xml">
+        <member role="developer" name="Fedya"/>
+        <member role="manager" name="Ivan"/>
+        <member role="manager" name="Fedya"/>
+    </project>
+</projects>
